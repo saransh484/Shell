@@ -27,3 +27,4 @@ echo 'total arguments : '$@
 # to print the number if arguments entered
 
 echo 'number of arguments : '$# 
+
